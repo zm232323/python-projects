@@ -1,97 +1,85 @@
-````md id="g7v2mx"
-# 🚀 Python Projects Collection
+# 🐍 Python Projects Collection
 
-<div align="center">
+A collection of beginner-friendly Python projects built using Google Colab and Jupyter Notebook.
 
-![Python](https://img.shields.io/badge/Python-Programming-blue?style=for-the-badge&logo=python)
-![Colab](https://img.shields.io/badge/Google-Colab-orange?style=for-the-badge&logo=googlecolab)
-![GitHub](https://img.shields.io/badge/GitHub-Projects-black?style=for-the-badge&logo=github)
-
-### 🐍 Beginner Friendly Python & Colab Projects
-
-A collection of Python mini projects built using **Google Colab** and **Jupyter Notebook** for learning programming, logic building, and problem-solving.
-
-</div>
+These projects are created for learning Python programming, problem-solving, and basic AI/logic-building concepts.
 
 ---
 
-# 📂 Included Projects
+# 📂 Projects Included
 
 ## 🩺 Disease Symptoms Checker System
-A Python-based system that predicts possible diseases using user-entered symptoms.
+A symptom-based disease prediction system that checks possible diseases from user-entered symptoms.
 
-✨ Features:
+### Features
 - Disease prediction
 - Match level detection
-- Symptom checking system
-
----
-
-## 🎬 Movie Recommendation System
-A beginner-friendly movie recommendation project that suggests movies based on user preferences.
-
-✨ Features:
-- Movie suggestions
-- Recommendation logic
 - User input handling
 
 ---
 
-## 📊 Customer Analysis Feedback System
-A Python project that analyzes customer feedback and responses.
+## 🎬 Movie Recommendation System
+A simple movie recommendation project that suggests movies based on user preferences.
 
-✨ Features:
-- Feedback analysis
-- Data processing
-- Simple analysis system
+### Features
+- Movie suggestions
+- Beginner-friendly logic
+- Python recommendation system
 
 ---
 
-# 🛠️ Technologies Used
+## 📊 Customer Analysis Feedback System
+A customer feedback analysis project that processes and analyzes customer responses.
 
-- 🐍 Python
-- 📓 Jupyter Notebook
-- ☁️ Google Colab
-- 🌐 GitHub
+### Features
+- Feedback analysis
+- Data handling
+- Simple Python analysis system
+
+---
+
+# 💻 Technologies Used
+
+- Python
+- Google Colab
+- Jupyter Notebook
+- GitHub
+
+---
+
+# 🚀 How to Run
+
+1. Open any project folder
+2. Open the `.ipynb` notebook
+3. Run all cells
 
 ---
 
 # 📁 Repository Structure
 
-```text
-python-projects
+Python-Projects
 ┣ 📂 Disease-Symptoms-Checker
 ┣ 📂 Movie-Recommendation-System
 ┣ 📂 Customer_analysis_feedback_system
 ┗ 📜 README.md
-````
-
----
-
-# ▶️ How To Run
-
-1️⃣ Open any project folder
-2️⃣ Open the `.ipynb` notebook
-3️⃣ Run all cells
 
 ---
 
 # 🌟 Future Improvements
 
-* GUI Applications
-* Machine Learning Integration
-* Database Connectivity
-* Advanced Recommendation Systems
+- GUI Applications
+- Machine Learning Integration
+- Database Connectivity
+- Better Recommendation Systems
 
 ---
 
-<div align="center">
+# 👨‍💻 Author
 
-## 👨‍💻 Author
+Zaid Malik
 
-### Zaid Malik
+---
 
-⭐ If you like these projects, don't forget to star this repository.
+# ⭐ Support
 
-</div>
-```
+If you like these projects, give this repository a ⭐ on GitHub.
